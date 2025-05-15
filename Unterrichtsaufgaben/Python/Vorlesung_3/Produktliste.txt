@@ -1,0 +1,7 @@
+Fleisch:1:1
+Tomaten:2:2
+Gurken:3:3
+Aepfel:4:4
+Orangen:5:5
+Bananen:6:6
+Wasser:7:7
